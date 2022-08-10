@@ -114,25 +114,25 @@ const answers=[];
 
 // 15
 
-console.log('arr'+'-object');
-console.log(4 + +'-popo');
+// console.log('arr'+'-object');
+// console.log(4 + +'-popo');
 
-let incr=10,
-    decr=10;
+// let incr=10,
+//     decr=10;
 
-// ++incr;
-// --decr;
+// // ++incr;
+// // --decr;
 
-console.log(++incr);
-console.log(--decr);
+// console.log(++incr);
+// console.log(--decr);
 
-const isChecked=true,
-      isClosed=true,
-      isOpen=false;
+// const isChecked=true,
+//       isClosed=true,
+//       isOpen=false;
 
-console.log(isChecked && isClosed && isOpen)
+// console.log(isChecked && isClosed && isOpen)
 
-console.log(3 !== '9')
+// console.log(3 !== '9')
 
 
 
